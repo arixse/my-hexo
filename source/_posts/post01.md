@@ -3,9 +3,9 @@ title: 每周分享01（20181118）
 date: 2018-11-18 10:19:07
 categories: 每周分享
 ---
+![](https://cdn-pri.nlark.com/yuque/0/2018/png/120372/1545190651702-bafe1fd7-ec90-47c6-905f-4a0476b4ddc1.png)
 #### 为什么做每周分享？
 在语雀上看到阮一峰老师的每周分享，内容涉猎广泛，引人深思，同时亦钦佩阮老师短期内获取新信息的能力与毅力。想起知乎看到的一句话，人什么时候不再进步？停止向外界输出的时候。信息爆炸的时代，海量碎片的输入常常陷入自我表达的「失语」，在这里记录过去一周我看到的值得分享的内容，希望自己持续发声，以此自勉！
-
 ### 文章
 - [Exploring the cadence of great experiences](http://www.uxaustralia.com.au/conferences/uxaustralia-2014/presentation/cadence-great-experiences/)
 	UX Australia 2014 的一篇演讲，提出**「节奏（cadence）」**是规划长期用户体验的重要方法。内容虽然有些久远，但是关于节奏（令人联想到音乐、建筑中的韵律感）的设计理念令人耳目一新，网站资料中的“可视化”笔记非常值得借鉴。
